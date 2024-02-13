@@ -3,7 +3,7 @@
 <div style="display: inline_block"><br>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarosilvasouza1&theme=midnight-purple&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarosilvasouza1&theme=midnight-purple&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarosilvasouza1&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
  
 
