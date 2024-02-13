@@ -1,6 +1,6 @@
 ### HI I am the Amaro Silva👋
 
-<div style="display: flex"><br>
+<div style="display: inline_block"><br>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=midnight-purple&show_icons=true)
 
