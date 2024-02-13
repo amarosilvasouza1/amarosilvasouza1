@@ -1,4 +1,4 @@
-### ola, Me Chamo Amaro👋
+### Olá, Me Chamo Amaro👋
 
 <div style="display: inline_block"><br>
   
@@ -8,7 +8,7 @@
 
   ##
 
-           Tecnologias Que Uso No Dia a Dia
+  Tecnologias Que Uso No Dia a Dia
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Amaro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
