@@ -1,9 +1,13 @@
 ### *Olá, Me Chamo Amaro👋*
 
+🌱 Eu mao desevolver 
+🍀 Gosto de me desafia
+📖 Amo aprede coisas novas 
+
 <div style="display: inline_block"><br>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarosilvasouza1&theme=holi&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarosilvasouza1&theme=holi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarosilvasouza1&theme=holi&layout=compact)](https://github.com/amarosilvasouza1/github-readme-stats)
 </div>
 
   ##
