@@ -1,5 +1,7 @@
 ### HI I am the Amaro Silva👋
+
 <div style="display: inline_block"><br>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=midnight-purple&show_icons=true)
 
 <a href="https://github.com/anuraghazra/convoychat">
