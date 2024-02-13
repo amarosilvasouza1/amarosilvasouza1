@@ -1,5 +1,10 @@
 ### HI I am the Amaro Silva👋
 
+<source
+    srcset="https://github-readme-stats.vercel.app/api?username=Amarosilva&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Amaro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Amaro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
