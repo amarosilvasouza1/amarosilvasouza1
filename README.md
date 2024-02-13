@@ -7,7 +7,6 @@
  🍀 Gosto de me desafia
  
  📖 Amo aprede coisas novas 
-
 ##
 
 <div style="display: inline_block"><br>
