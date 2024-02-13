@@ -1,6 +1,6 @@
 ### *Olá, Me Chamo Amaro👋*
 
-
+##
   
  🌱 Eu mao desevolver 
  
@@ -8,6 +8,7 @@
  
  📖 Amo aprede coisas novas 
 
+##
 
 <div style="display: inline_block"><br>
   
