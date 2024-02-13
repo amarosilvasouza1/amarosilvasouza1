@@ -1,7 +1,6 @@
 ### *Olá, Me Chamo Amaro👋*
 
 ##
-  
  🌱 Eu mao desevolver 
  
  🍀 Gosto de me desafia
