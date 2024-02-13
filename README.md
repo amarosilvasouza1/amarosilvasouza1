@@ -3,7 +3,9 @@
 
   
  🌱 Eu mao desevolver 
+ 
  🍀 Gosto de me desafia
+ 
  📖 Amo aprede coisas novas 
 
 
