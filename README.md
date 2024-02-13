@@ -2,10 +2,8 @@
 
 <div style="display: inline_block"><br>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=midnight-purple&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarosilva1&theme=midnight-purple&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarosilva1&layout=compact&theme=midnight-purple)
 </div>
  
 
