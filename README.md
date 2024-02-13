@@ -1,12 +1,11 @@
 ### *Olá, Me Chamo Amaro👋*
 
-<div style="diaplay: flex" flex-direction="column">
-  
-🌱 Eu mao desevolver 
-🍀 Gosto de me desafia
-📖 Amo aprede coisas novas 
 
-</div>
+  
+ 🌱 Eu mao desevolver 
+ 🍀 Gosto de me desafia
+ 📖 Amo aprede coisas novas 
+
 
 <div style="display: inline_block"><br>
   
