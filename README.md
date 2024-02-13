@@ -1,11 +1,12 @@
-### HI I am the Amaro Silva👋
+### ola, Me Chamo Amaro👋
 
 <div style="display: inline_block"><br>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarosilvasouza1&theme=holi&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarosilvasouza1&theme=holi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
- 
+
+  ##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Amaro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,6 +25,8 @@
   <a href="https://www.linkedin.com/in/amaro-silva-200614278/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   
 </div>
+
+ ##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amarosilvasouza1/amarosilvasouza1/output/github-contribution-grid-snake-dark.svg">
